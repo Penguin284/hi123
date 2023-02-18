@@ -1,5 +1,5 @@
 while true do
-    wait(1)
+    wait(30)
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Penguin284/hi123/main/hi1'))()
 end
 --game.ReplicatedStorage.API["TradeAPI/DeclineTrade"]:FireServer()
